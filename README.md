@@ -34,6 +34,18 @@ Supporting utility functions for quality assessment, threading, and visualizatio
 🎯 Quality-based reclassification to improve accuracy
 
 🌐 Scalable design suitable for real-time web or local deployment
+## 📊 Results
+
+- Full-body detection precision: 96.5%
+- Recall: 89.7%
+- mAP@50: 95.6%
+- neck detection precision : 97%
+- General disease classification training accuracy: 97.82%
+- General disease classification validation accuracy: 88.41%
+- Specific disease classification training accuracy: 99.52%
+- Specific disease classification validation accuracy: 91.76%
+
+Videos and additional samples can be found in the [results folder](results/).
 
 🛠️ Technologies Used
 . Python
