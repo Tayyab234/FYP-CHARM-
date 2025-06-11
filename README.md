@@ -1,4 +1,4 @@
-# FYP-CHARM-
+# FYP-CHARM
  CHARM – Chicken Health Assessment through Real-time Monitoring
 🔍 Project Overview
 The CHARM project is a deep learning-based poultry health monitoring system designed to detect, track, and classify diseases in chickens using computer vision. This Jupyter Notebook demonstrates the core functionality of the CHARM pipeline, which integrates object detection, tracking, and multithreaded disease classification using multiple neural network models.
